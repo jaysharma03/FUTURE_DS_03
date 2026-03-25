@@ -68,15 +68,15 @@ This project provides a data-driven analysis of marketing campaigns by tracking 
 
 ---
 
-## ⭐ Project Highlights
-
-• End-to-end funnel analysis
-
-• Interactive dashboard
-
-• Business-focused insights
-
-• Real-world marketing dataset
+## 🎓 Learning Outcomes
+ 
+- Learned to create key metrics (CTR, CPC, ROI) using DAX
+  
+- Developed ability to derive actionable business insights from data
+   
+- Understood channel, regional, and product-level performance analysis
+  
+- Enhanced data storytelling and visualization skills
 
 ---
 

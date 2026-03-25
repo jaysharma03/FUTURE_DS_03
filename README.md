@@ -81,7 +81,7 @@ This project provides a data-driven analysis of marketing campaigns by tracking 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard]()
+![Dashboard](https://github.com/jaysharma03/FUTURE_DS_03/blob/main/Marketing_Analysis_Task3.JPG)
 
 ---
 ## 📌 Author

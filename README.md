@@ -30,19 +30,19 @@ This project focuses on analyzing digital marketing performance using funnel met
 
 ## 🔍 Key Insights
 
-• Search & Social channels drive higher conversions
+- Search & Social channels drive higher conversions
 
-• Email marketing is most cost-efficient (low CPC)
+- Email marketing is most cost-efficient (low CPC)
 
-• Strong CTR (~13.86%) indicates good engagement
+- Strong CTR (~13.86%) indicates good engagement
 
-• Drop observed from clicks → conversions
+- Drop observed from clicks → conversions
 
-• West & North regions generate higher revenue
+- West & North regions generate higher revenue
 
-• Product B & C contribute most revenue
+- Product B & C contribute most revenue
 
-• Seasonal trends observed across quarters
+- Seasonal trends observed across quarters
 
 ---
 
@@ -58,13 +58,13 @@ This project focuses on analyzing digital marketing performance using funnel met
 
 ## 🚀 Business Impact
 
-• Optimizes marketing budget allocation
+- Optimizes marketing budget allocation
 
-• Improves conversion strategy
+- Improves conversion strategy
 
-• Identifies high ROI channels
+- Identifies high ROI channels
 
-• Supports data-driven decisions
+- Supports data-driven decisions
 
 ---
 

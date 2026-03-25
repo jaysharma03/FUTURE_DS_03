@@ -1,7 +1,7 @@
 # 📊 Marketing Funnel & Conversion Performance Analysis
 
 ## 📌 Project Overview
-This project provides a data-driven analysis of marketing campaigns by tracking the full funnel from impressions to revenue. It helps identify high-performing channels, optimize spend, and improve conversion efficiency.
+This project focuses on analyzing digital marketing performance using funnel metrics such as clicks, conversions, and revenue. The goal is to evaluate campaign effectiveness, optimize marketing spend, and identify high-performing channels and regions.
 
 ---
 

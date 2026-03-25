@@ -14,7 +14,7 @@ This project provides a data-driven analysis of marketing campaigns by tracking 
 ---
 
 ## 📂 Dataset
-**Source:** [Marketing_Analysis](https://raw.githubusercontent.com/jaysharma03/FUTURE_DS_03/main/Marketing_Funnel_Analysis_%20Task3.pbix)  
+**Source:** [Marketing_Analysis](https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Marketing_Funnel_Analysis_%20Task3.pbix)  
 
 🔑**Key Attributes**: Region, Product, Marketing Channel, Quarter, Spend, Clicks , Conversions, Revenue, Impressions  
 
